@@ -1,0 +1,1 @@
+/Users/randy/Development/Rust-Projects/the_book_of_rust/3_common_programming_concepts/data_types/target/debug/data_types: /Users/randy/Development/Rust-Projects/the_book_of_rust/3_common_programming_concepts/data_types/src/main.rs
